@@ -1,0 +1,12 @@
+pip install phonenumbers 
+pip install pytz
+pip install datetime
+pip install re
+pip install follium
+pip istall opencage.gercoder
+pip install os
+pip install webbrowser
+pip install geocoder
+pip install requests
+pip install bs4
+pip install urllib.parse
