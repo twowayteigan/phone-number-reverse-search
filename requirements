@@ -10,3 +10,4 @@ pip install geocoder
 pip install requests
 pip install bs4
 pip install urllib.parse
+pip install opencage
