@@ -12,3 +12,5 @@ pip install bs4
 pip install urllib.parse
 pip install opencage
 pip install base64
+pip install beautifulsoup4
+pip install colorama
