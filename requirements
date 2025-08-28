@@ -2,8 +2,8 @@ pip install phonenumbers
 pip install pytz
 pip install datetime
 pip install re
-pip install follium
-pip istall opencage.gercoder
+pip install folium
+pip istall opencage.geocoder
 pip install os
 pip install webbrowser
 pip install geocoder
